@@ -1,0 +1,6 @@
+{
+  "name": "Học não to",
+  "description": "Ứng dụng di động ôn thi cuối kỳ hỗ trợ giải bài tập bằng AI theo từng cấp học, hỏi đáp tiếp nối và lưu lịch sử học tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

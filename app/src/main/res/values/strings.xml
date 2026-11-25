@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Học não to</string>
+    <string name="app_tagline">Ôn thi cuối kỳ đạt điểm 10</string>
+
+    <!-- Navigation -->
+    <string name="nav_solve">Giải bài</string>
+    <string name="nav_history">Lịch sử</string>
+    <string name="cd_back">Quay lại</string>
+    <string name="cd_logo_ten">Logo số 10 màu đỏ Học não to</string>
+
+    <!-- Education Levels -->
+    <string name="section_education_level">Chọn cấp học</string>
+    <string name="level_primary">Tiểu học</string>
+    <string name="level_middle">THCS</string>
+    <string name="level_high">THPT</string>
+    <string name="level_university">Đại học</string>
+
+    <!-- Problem Input -->
+    <string name="section_problem_input">Nhập đề bài ôn thi</string>
+    <string name="btn_take_photo">Chụp ảnh</string>
+    <string name="btn_pick_photo">Tải ảnh lên</string>
+    <string name="hint_problem_input">Nhập đề bài, câu hỏi hoặc ghi chú thêm (VD: Giải câu 2, trình bày chi tiết)…</string>
+    <string name="btn_solve_now">Giải ngay</string>
+    <string name="btn_new_problem">Giải bài mới</string>
+    <string name="cd_remove_image">Xóa ảnh đề bài</string>
+    <string name="cd_problem_image">Ảnh đề bài đã chọn</string>
+    <string name="msg_camera_permission_denied">Cần cấp quyền máy ảnh để chụp đề bài trực tiếp.</string>
+    <string name="msg_empty_input">Vui lòng chụp/tải ảnh đề bài hoặc nhập nội dung câu hỏi.</string>
+    <string name="msg_solving">Đang phân tích đề bài và lập lời giải…</string>
+    <string name="btn_retry">Thử lại</string>
+
+    <!-- Solution Sections -->
+    <string name="section_final_answer">1. Đáp án chốt</string>
+    <string name="section_detailed_steps">2. Các bước giải chi tiết</string>
+    <string name="section_similar_exercise">3. Bài tập tương tự</string>
+    <string name="btn_show_hint">Xem gợi ý &amp; đáp án tự kiểm tra</string>
+    <string name="btn_hide_hint">Ẩn gợi ý</string>
+    <string name="cd_copy_answer">Sao chép đáp án</string>
+    <string name="msg_copied">Đã sao chép vào bộ nhớ tạm</string>
+
+    <!-- Follow-up Chat -->
+    <string name="section_follow_up_chat">Hỏi đáp tiếp nối</string>
+    <string name="subtitle_follow_up_chat">Chưa hiểu bước nào? Hỏi ngay gia sư AI bên dưới</string>
+    <string name="chip_simpler">Giải thích dễ hiểu hơn</string>
+    <string name="chip_more_examples">Cho thêm ví dụ</string>
+    <string name="chip_summary_formula">Tóm tắt công thức</string>
+    <string name="chip_common_mistakes">Lỗi sai hay gặp</string>
+    <string name="hint_chat_input">Hỏi thêm về bài giải này…</string>
+    <string name="cd_send_chat">Gửi câu hỏi tiếp nối</string>
+
+    <!-- History -->
+    <string name="title_history">Lịch sử ôn thi</string>
+    <string name="hint_search_history">Tìm kiếm theo đề bài, môn học…</string>
+    <string name="filter_all">Tất cả</string>
+    <string name="empty_history_title">Chưa có bài giải nào được lưu</string>
+    <string name="empty_history_subtitle">Mọi bài tập bạn giải và đoạn chat hỏi đáp đều được tự động lưu tại đây để ôn lại trước kỳ thi.</string>
+    <string name="cd_delete_history">Xóa bài giải khỏi lịch sử</string>
+    <string name="title_history_detail">Chi tiết bài giải</string>
+    <string name="dialog_delete_title">Xóa bài giải này?</string>
+    <string name="dialog_delete_message">Toàn bộ lời giải và đoạn chat hỏi đáp của bài này sẽ bị xóa khỏi thiết bị.</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_cancel">Hủy</string>
+</resources>
